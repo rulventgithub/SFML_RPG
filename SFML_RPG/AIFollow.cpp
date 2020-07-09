@@ -1,5 +1,5 @@
 #include "stdafx.h"
-#include "AIFollow.h"a
+#include "AIFollow.h"
 
 AIFollow::AIFollow(Entity& self, Entity& entity)
 	: AIOption(self, entity)
